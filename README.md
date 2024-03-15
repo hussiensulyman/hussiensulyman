@@ -5,7 +5,7 @@
 <p>- 👯 I’m looking to collaborate on **any web project**</p>
 <p>- 🌱 I’m currently learning **React, Node.js and PHP**</p>
 <p>- 💬 Ask me about **Front-end and Back-end technologies and I'll help you as I can**</p>
-<p>- 📫 How to reach me <span href="mailto:hussiensulyman@gmail.com" style="wieght:Bold">hussiensulyman@gmail.com</span></p>
+<p>- 📫 How to reach me **hussiensulyman@gmail.com**</p>
 
 <div> <a href="https://twitter.com/hussiensulyman" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/hussiensulyman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
