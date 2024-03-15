@@ -19,19 +19,6 @@
 
 ---
 
-<div align="center"> 
-  <h3 align="left">Let's Connect:</h3>
-  <a href="https://twitter.com/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-  <a href="https://www.linkedin.com/in/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-  <a href="https://github.com/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=github" />
-</a>
-  <a href="https://instagram.com/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href = "mailto:hussiensulyman@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -58,5 +45,19 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
+
+---
+
+<div align="center"> 
+  <h3 align="left">Let's Connect:</h3>
+  <a href="https://twitter.com/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+  <a href="https://www.linkedin.com/in/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+  <a href="https://github.com/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=github" />
+</a>
+  <a href="https://instagram.com/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href = "mailto:hussiensulyman@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
