@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hussien Sulyman</h1>
 <h3 align="center">Software Engineer & Web Developer</h3>
 
-## About Me 🙂
+## About Me 
 - *👯 I’m looking to collaborate on **any web project**
 - *🌱 I’m currently learning **React, Node.js and PHP**
 - *💬 Ask me about **Front-end and Back-end technologies and I'll help you as I can**
