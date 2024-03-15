@@ -8,6 +8,14 @@
 - *💬 Ask me about **Front-end and Back-end technologies and I'll help you as I can**
 - *📫 How to reach me **hussiensulyman@gmail.com**
 
+--- 
+
+<h2 align="center">Statistics 📈 </h2>
+<p align="center">
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=hussiensulyman&show_icons=true&theme=midnight-purple" />     
+<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensulyman&show_icons=true&theme=midnight-purple" />
+<p/>
+
 
 ---
 
@@ -50,13 +58,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
-
---- 
-
-<h2 align="center">Statistics 📈 </h2>
-<p align="center">
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=hussiensulyman&show_icons=true&theme=midnight-purple" />     
-<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensulyman&show_icons=true&theme=midnight-purple" />
-<p/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
