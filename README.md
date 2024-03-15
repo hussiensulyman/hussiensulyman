@@ -12,7 +12,7 @@
 ---
 
 <div align="center"> 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Let's Connect:</h3>
   <a href="https://twitter.com/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" />
 </a>
   <a href="https://www.linkedin.com/in/hussiensulyman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" />
@@ -26,6 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+      <img src="https://skillicons.dev/icons?i=html,css,js,,python,cpp,sass,react,tailwind,saas,mysql,oracle,microsoft-sql-server,laravel,,nodejs,mongodb,typescript,git,linux,figma,adobe-xd,adobe-photoshop" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
