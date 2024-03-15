@@ -2,15 +2,10 @@
 <h1 align="center">Hi 👋, I'm Hussien Sulyman</h1>
 <h3 align="center">Software Engineer & Web Developer</h3>
 ## About Me 🙂
-- *A passionate **web developer** who writes interesting **bugs***
-- *Specializes in **front-end development***
-- ***Open-source** enthusiast*
-- *Trying and **exploring** new stuff*
-#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.- *🔭 I’m currently working on **E-commerce (full-stack) **
-<!-- - *👯 I’m looking to collaborate on **any web project**
+- *👯 I’m looking to collaborate on **any web project**
 - *🌱 I’m currently learning **React, Node.js and PHP**
 - *💬 Ask me about **Front-end and Back-end technologies and I'll help you as I can**
-- *📫 How to reach me **hussiensulyman@gmail.com** -->
+- *📫 How to reach me **hussiensulyman@gmail.com**
 
 
 <div> <a href="https://twitter.com/hussiensulyman" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
