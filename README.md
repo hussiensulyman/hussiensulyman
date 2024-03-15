@@ -46,8 +46,8 @@
 
 <h3 align="left">Stars</h3>
 <div display="inline-block">
-<p align="right">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hussiensulyman&show_icons=true&locale=en&theme=midnight-purple" alt="hussiensulyman" /></p>
-<p align="left"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensulyman&theme=midnight-purple" alt="hussiensulyman" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hussiensulyman&show_icons=true&locale=en&theme=midnight-purple" alt="hussiensulyman" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensulyman&theme=midnight-purple" alt="hussiensulyman" /></p>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
