@@ -4,7 +4,7 @@
 
 ## About Me 
 - 👯 I’m looking to collaborate on **any web project**
-- 🌱 I’m currently learning **React, Node.js and PHP**
+- 🌱 I’m currently learning **React, Node.js**
 - 💬 Ask me about **Front-end and Back-end technologies and I'll help you as I can**
 - 📫 How to reach me **hussiensulyman@gmail.com**
 
