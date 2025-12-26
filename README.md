@@ -38,7 +38,11 @@
 
 ###
 
-<p align="left">- 💻 Building full-stack web applications with **Laravel, Node.js, React, and Tailwind CSS**<br>- 📚 Currently learning **Next.js, Nest.js, and advanced backend architectures**<br>- 🔐 Passionate about **backend engineering, APIs, modular monolith design, and secure systems**<br>- 💬 Ask me about **PHP, Node.js, database design, or deployment**<br>- 📫 Reach me at: **hussiensulyman@gmail.com**</p>
+  - 💻 Building full-stack web applications with **Laravel, Node.js, React, and Tailwind CSS**<
+  - 📚 Currently learning **Next.js, Nest.js, and advanced backend architectures**
+  - 🔐 Passionate about **backend engineering, APIs, modular monolith design, and secure systems**
+  - 💬 Ask me about **PHP, Node.js, database design, or deployment**
+  - 📫 Reach me at: **hussiensulyman@gmail.com**
 
 ###
 
@@ -84,6 +88,5 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hussinesulyman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hussinesulyman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
 ###
