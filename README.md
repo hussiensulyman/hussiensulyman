@@ -87,8 +87,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hussinesulyman&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=hussinesulyman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 ###
