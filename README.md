@@ -1,22 +1,32 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Hussien Sulyman</h1>
-<h3 align="center">Software Engineer & Web Developer</h3>
+<h3 align="center">Full-Stack Developer | Backend Enthusiast | Building Scalable Web Apps</h3>
+<p align="center">I help businesses build efficient, scalable, and maintainable web applications using modern technologies.</p>
 
-## About Me 
-- 💻 I’m looking to collaborate on **any web project**
-- 📚 I’m currently learning **Next.js, Node.js and Nest.js**
-- Enthusiast about **Quantum computing and Cryptography**
-- 💬 Ask me about **Front-end and Back-end technologies and I'll help you as I can**
-- 📫 How to reach me **hussiensulyman@gmail.com**
+
+## About Me
+- 💻 Building full-stack web applications with **Laravel, Node.js, React, and Tailwind CSS**
+- 📚 Currently learning **Next.js, Nest.js, and advanced backend architectures**
+- 🔐 Passionate about **backend engineering, APIs, modular monolith design, and secure systems**
+- 💬 Ask me about **PHP, Node.js, database design, or deployment**
+- 📫 Reach me at: **hussiensulyman@gmail.com**
+
 
 --- 
 
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">
 <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=hussiensulyman&show_icons=true&theme=midnight-purple" />     
-<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensulyman&show_icons=true&theme=midnight-purple" />
+<!-- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensulyman&show_icons=true&theme=midnight-purple" /> -->
+<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussiensulyman&layout=compact&theme=midnight-purple" />
 <p/>
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hussiensulyman&theme=midnight-purple)
 
+
+---
+## Latest Projects
+- [Fajr-Learning Platform](https://fajr-learning.com) - Learning management system for 40+ students with role-based dashboards.
+- [Tawerid Platform](https://tawerid.com) - Multi-vendor B2B marketplace with bilingual support and full CRUD operations.
 
 ---
 
