@@ -19,8 +19,10 @@
 <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=hussiensulyman&show_icons=true&theme=midnight-purple" />     
 <!-- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensulyman&show_icons=true&theme=midnight-purple" /> -->
 <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussiensulyman&layout=compact&theme=midnight-purple" />
+<img height="200px" width="400px" src="https://github-readme-activity-graph.cyclic.app/graph?username=hussiensulyman&theme=midnight-purple" />
+
+
 <p/>
-[Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hussiensulyman&theme=midnight-purple)
 
 
 ---
