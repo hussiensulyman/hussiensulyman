@@ -63,5 +63,6 @@
 ----
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hussiensulyman&theme=react-dark&hide_border=true" alt="Hussien's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/hussiensulyman" alt="Hussien's GitHub Contributions" />
 </p>
+
