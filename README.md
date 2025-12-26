@@ -88,6 +88,7 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hussinesulyman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hussinesulyman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
-  ###
+
+###
