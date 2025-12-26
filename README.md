@@ -30,7 +30,8 @@
 
 <br clear="both">
 
-<h3 align="center">Full-Stack Developer | Backend Enthusiast | Building Scalable Web Apps<br>I help businesses build efficient, scalable, and maintainable web applications using modern technologies.</h3>
+<h3 align="center">Full-Stack Developer | Backend Enthusiast | Building Scalable Web Apps </h3>
+<h2 align="center">I help businesses build efficient, scalable, and maintainable web applications using modern technologies.</h2>
 
 ###
 
