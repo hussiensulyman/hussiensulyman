@@ -18,10 +18,17 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hussiensulyman.hussiensulyman" />
 </p>
 
-# Hi 👋, I'm Hussien Sulyman
+<h1 align="center">Hi 👋, I'm Hussien Sulyman</h1>
 
-## Full-Stack Developer | Backend Enthusiast | Building Scalable Web Apps
-I help businesses build efficient, scalable, and maintainable web applications using modern technologies.
+<p align="center" style="font-size:20px; margin:0;">
+  Full-Stack Developer | Backend Enthusiast | Building Scalable Web Apps
+</p>
+
+<p align="center">
+  I help businesses build efficient, scalable, and maintainable web applications using modern technologies.
+</p>
+
+
 
 ---
 
