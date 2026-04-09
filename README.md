@@ -36,7 +36,7 @@
 - 💻 Building full-stack web applications with **Laravel, Node.js, React, and Tailwind CSS**  
 - 📚 Currently learning **Next.js, Nest.js, and advanced backend architectures**  
 - 🔐 Passionate about **backend engineering, APIs, modular monolith design, and secure systems**  
-- 💬 Ask me about **PHP, Node.js, database design, or deployment**  
+- 💬 Ask me about **Laravel, PHP, Node.js, database design, or deployment**  
 - 📫 Reach me at: **hussiensulyman@gmail.com**
 
 ---
